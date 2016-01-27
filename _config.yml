@@ -1,0 +1,28 @@
+name: SW1
+favicon: null
+layout_spectrum: 0.08072222233749926
+typography_spectrum: 0.11047114385291934
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4283884752076119
+  lightness: 0.7316391945350915
+  saturation: 0.16552670602686703
+  rhythmicContrast: 0.6063281637616456
+purpose: []
